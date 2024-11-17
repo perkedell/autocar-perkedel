@@ -23,3 +23,4 @@ This project involves creating an autonomous car using a Raspberry Pi and additi
    ```sh
    git clone https://github.com/perkedell/autocar-perkedel.git
 
+Note : 還沒做好
